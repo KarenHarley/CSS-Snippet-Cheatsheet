@@ -1,6 +1,8 @@
 :root {
   --primary-background-color: rgb(57, 57, 73);
   --secondary-color: white;
+  --third-color: aquamarine;
+  --color-in-code: cornflowerblue;
 }
 
 body {
@@ -9,7 +11,7 @@ body {
 header,
 footer {
   padding: 30px;
-  color: aquamarine;
+  color: var(--third-color);
 }
 .page-title {
   text-align: center;
@@ -51,14 +53,14 @@ header p {
   justify-content: flex-start; /* unessesay*/
   min-height: 100%;
   padding: 2rem;
-  color: aquamarine;
-  outline: 2px dashed cornflowerblue;
+  color: var(--third-color);
+  outline: 2px dashed var(--color-in-code);
   outline-offset: -2px;
   transition: all 0.5s ease-in-out;
 }
 .code-card:hover {
-  outline: 2px dashed aquamarine;
-  box-shadow: 0 0 20px aquamarine;
+  outline: 2px dashed var(--third-color);
+  box-shadow: 0 0 20px var(--third-color);
 }
 
 .code-card p {
@@ -67,7 +69,7 @@ header p {
 .code-block {
   /*crams everything white-space: normal; */
   padding: 20px;
-  background-color: cornflowerblue;
+  background-color: var(--color-in-code);
   border-radius: 10px;
   white-space: pre-wrap;
   color: var(--primary-background-color);
