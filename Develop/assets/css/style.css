@@ -1,0 +1,102 @@
+:root {
+  --primary-background-color: rgb(57, 57, 73);
+  --secondary-color: white;
+}
+
+body {
+  background-color: var(--primary-background-color);
+}
+header,
+footer {
+  padding: 30px;
+  color: aquamarine;
+}
+.page-title {
+  text-align: center;
+}
+header p {
+  padding: 15px;
+  font-size: 90%;
+  text-align: center;
+}
+
+.justify-center {
+  justify-content: center; /* unessesay*/
+}
+.card-column h2 {
+  display: inline-block;
+  padding: 15px;
+  border: 2px solid var(--secondary-color);
+  border-radius: 10px;
+  margin: 10px;
+  /* 
+ position: relative;
+ bottom: 50px;
+  left: 90px;
+  */
+  z-index: 1;
+  background-color: var(--primary-background-color);
+}
+
+.card-column {
+  flex: 1 0 100%;
+  padding: 1.5rem;
+
+  transition: flex-basis 500ms linear;
+  margin-bottom: 1.5rem;
+}
+.code-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* unessesay*/
+  min-height: 100%;
+  padding: 2rem;
+  color: aquamarine;
+  outline: 2px dashed cornflowerblue;
+  outline-offset: -2px;
+  transition: all 0.5s ease-in-out;
+}
+.code-card:hover {
+  outline: 2px dashed aquamarine;
+  box-shadow: 0 0 20px aquamarine;
+}
+
+.code-card p {
+  padding: 10px;
+}
+.code-block {
+  /*crams everything white-space: normal; */
+  padding: 20px;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+  white-space: pre-wrap;
+  color: var(--primary-background-color);
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+footer {
+  font-size: 150%;
+}
+footer h3 {
+  text-align: center;
+  padding: 15px;
+  font-size: 100%;
+}
+@media screen and (min-width: 768px) {
+  .card-column {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .card-column:last-child {
+    flex-grow: 1;
+  }
+}
+@media screen and (min-width: 992px) {
+  .card-column {
+    flex: 0 0 33.333%;
+    max-width: 33.333%;
+  }
+}
