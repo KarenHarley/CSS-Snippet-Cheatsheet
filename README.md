@@ -9,10 +9,6 @@ Site contains some helpful CSS Snippets.
 2. CSS
 3. HTML
 
-## Contact Info 
-
-karen.pretzel.365@gmail.com
-
 # Picture of site
 
 ![Webiste pic](./pic/pic.png)
@@ -26,4 +22,8 @@ https://karenharley.github.io/CSS-Snippet-Cheatsheet
 Github:
 
 https://github.com/KarenHarley/CSS-Snippet-Cheatsheet
+
+## Contact Info 
+
+karen.pretzel.365@gmail.com
 
