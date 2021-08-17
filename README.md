@@ -17,6 +17,11 @@ karen.pretzel.365@gmail.com
 
 ![Webiste pic](./pic/pic.png)
 
-link:
+Links:
 
-https://karenharley.github.io/Mini-Project-2/
+Website:
+
+https://karenharley.github.io/CSS-Snippet-Cheatsheet
+
+Github:
+
