@@ -25,3 +25,5 @@ https://karenharley.github.io/CSS-Snippet-Cheatsheet
 
 Github:
 
+https://github.com/KarenHarley/CSS-Snippet-Cheatsheet
+
