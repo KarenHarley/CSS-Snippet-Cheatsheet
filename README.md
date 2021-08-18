@@ -25,5 +25,5 @@ https://github.com/KarenHarley/CSS-Snippet-Cheatsheet
 
 ## Contact Info 
 
-karen.pretzel.365@gmail.com
+KarenHarley88@gmail.com
 
