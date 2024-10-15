@@ -2,7 +2,7 @@
 # CSS-Snippet-Cheatsheet
 
 
-Site contains some helpful CSS Snippets. 
+Site contains some helpful CSS Snippets, displayed in a chart. 
 
 # Technologies used
 
