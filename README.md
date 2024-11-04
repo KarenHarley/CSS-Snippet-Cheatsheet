@@ -1,20 +1,20 @@
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
-# CSS-Snippet-Cheatsheet
+### CSS-Snippet-Cheatsheet
 
 
 Site contains some helpful CSS Snippets, displayed in a chart. 
 
-# Technologies used
+### Technologies used
 
 1. jQuery
 2. CSS
 3. HTML
 
-# Picture of site
+### Picture of site
 
 ![Webiste pic](./pic/pic.png)
 
-Links:
+### Links:
 
 Website:
 
@@ -24,7 +24,7 @@ Github:
 
 https://github.com/KarenHarley/CSS-Snippet-Cheatsheet
 
-## Contact Info 
+### Contact Info 
 
 KarenHarley88@gmail.com
 
