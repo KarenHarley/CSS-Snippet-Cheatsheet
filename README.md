@@ -28,6 +28,10 @@ Github:
 
 https://github.com/KarenHarley/CSS-Snippet-Cheatsheet
 
+### License
+
+The license used for this project: MIT
+
 ### Contact Info 
 
 KarenHarley88@gmail.com
