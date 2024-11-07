@@ -6,6 +6,7 @@ Site contains some helpful CSS Snippets, displayed in a chart.
 ## Table of Contents:
 
 - [Tecnologies](#tecnologies-used)
+- [License](#license)
 
 
 ### Technologies used
