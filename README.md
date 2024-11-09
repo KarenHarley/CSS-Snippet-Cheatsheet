@@ -7,6 +7,7 @@ Site contains some helpful CSS Snippets, displayed in a chart.
 
 - [Tecnologies](#tecnologies-used)
 - [Picture](#picture-of-site)
+- [Links](#links)
 - [License](#license)
 
 
