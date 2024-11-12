@@ -5,7 +5,7 @@ Site contains some helpful CSS Snippets, displayed in a chart.
 
 ## Table of Contents:
 
-- [Tecnologies Used](#tecnologies-used)
+- [Tecnologies Used](#technologies-used)
 - [Picture of Site](#picture-of-site)
 - [Links](#links)
 - [License](#license)
