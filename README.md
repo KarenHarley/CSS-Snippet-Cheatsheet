@@ -5,14 +5,14 @@ Site contains some helpful CSS Snippets, displayed in a chart.
 
 ## Table of Contents:
 
-- [Tecnologies Used](#technologies-used)
+- [Tecnologies](#technologies)
 - [Picture of Site](#picture-of-site)
 - [Links](#links)
 - [License](#license)
 - [Contact Info](#contact-info)
 
 
-### Technologies used
+### Technologies
 
 1. jQuery
 2. CSS
