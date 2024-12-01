@@ -36,7 +36,7 @@ https://github.com/KarenHarley/CSS-Snippet-Cheatsheet
 
 The license used for this project: MIT
 
-### Contact Info 
+### Questions
 
 KarenHarley88@gmail.com
 
