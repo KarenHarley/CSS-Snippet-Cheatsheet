@@ -38,5 +38,7 @@ The license used for this project: MIT
 
 ### Questions
 
-KarenHarley88@gmail.com
+To reach me please contact me in the email address below!
 
+- GitHub: https://github.com/KarenHarley
+- Email: karenharley88@gmail.com
